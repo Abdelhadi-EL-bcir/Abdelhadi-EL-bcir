@@ -3,21 +3,21 @@
         <p align=center>
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I+am+Ayoub+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I+am+Abdelhadi+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
     </div>
     <div align=center>
         <p align=center>
-            <a href="https://www.linkedin.com/in/ayoubtalbi">
-                <img alt="LinkedIn" title="ayoubtalbi" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            <a href="https://www.linkedin.com/in/abdelhadielbcir">
+                <img alt="LinkedIn" title="abdelhadielbcir" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
             <a href="https://discordapp.com/users/761317989265965176">
-                <img title="ayoub on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
+                <img title="abdelhadielbcir on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
             </a>	
-            <a href="mailto:ayoubtalbi787@gmail.com?subject=Github%20Contact&body=Hi%20Ayoub,">
+            <a href="mailto:abdelhadielbcir@gmail.com?subject=Github%20Contact&body=Hi%20abdelhadielbcir,">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
-            <a href="https://twitter.com/talbi_ayoub_">
-                <img title="talbi_ayoub_" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+            <a href="https://twitter.com/abdelhadielbcir">
+                <img title="abdelhadielbcir" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
             </a>
             <a href="https://instagram.com/ab_talbi">
                 <img title="ab_talbi" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
