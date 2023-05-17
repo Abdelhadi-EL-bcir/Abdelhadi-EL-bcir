@@ -155,7 +155,7 @@
         <br>
         <br>
     </div>
-    <div align=center>
+<!--     <div align=center>
         <h1>📊 Contribution Activity</h1>
         <br>
         
@@ -168,7 +168,7 @@
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
         <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-    </div>
+    </div> -->
     <br>
     <br>
 </div>
