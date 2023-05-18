@@ -7,30 +7,30 @@
     </div>
     <div align=center>
         <p align=center>
-            <a href="https://www.linkedin.com/in/abdelhadielbcir">
+            <a href="https://www.linkedin.com/in/abdelhadi-el-bcir-060b92217/">
                 <img alt="LinkedIn" title="abdelhadielbcir" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
             <a href="https://discordapp.com/users/761317989265965176">
-                <img title="abdelhadielbcir on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
+                <img title="#DJAYJI" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
             </a>	
             <a href="mailto:abdelhadielbcir@gmail.com?subject=Github%20Contact&body=Hi%20abdelhadielbcir,">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
-            <a href="https://twitter.com/abdelhadielbcir">
+            <a href="https://twitter.com/abdelhadi_elbcir">
                 <img title="abdelhadielbcir" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
             </a>
-            <a href="https://instagram.com/ab_talbi">
+            <a href="https://instagram.com/abdelhadi_elbcir">
                 <img title="ab_talbi" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
             </a>
         </p>
-        <a href="https://github.com/ab-talbi?tab=views">
-            <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=ab-talbi&label=Views&color=brightgreen&style=for-the-badge" />
+        <a href="https://github.com/Abdelhadi-EL-bcir?tab=views">
+            <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=Abdelhadi-EL-bcir&label=Views&color=brightgreen&style=for-the-badge" />
         </a>
-        <a href="https://github.com/ab-talbi?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=212F3C&labelColor=566573&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ab-talbi"/>
+        <a href="https://github.com/Abdelhadi-EL-bcir?tab=repositories&sort=stargazers">
+            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=212F3C&labelColor=566573&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Abdelhadi-EL-bcir"/>
         </a>
-        <a href="https://github.com/ab-talbi?tab=followers">
-            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ab-talbi?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+        <a href="https://github.com/Abdelhadi-EL-bcir?tab=followers">
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Abdelhadi-EL-bcir?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
         </a>
     </div>
     <br>
@@ -43,7 +43,7 @@
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
             <div>
-                <img src="https://github.com/ab-talbi/ab-talbi/blob/output/github-contribution-grid-snake.svg" />
+                <img src="https://github.com/Abdelhadi-EL-bcir/Abdelhadi-EL-bcir/blob/output/github-contribution-grid-snake.svg" />
             </div>
         </p>
     </div>
@@ -155,20 +155,18 @@
         <br>
         <br>
     </div>
-<!--     <div align=center>
+   <div align=center>
         <h1>📊 Contribution Activity</h1>
-        <br>
-        
-     
+        <br> 
         <div>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhadi-EL-bcir&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
         <div>
         <br>
         <div>
-            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=Abdelhadi-EL-bcir&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
         <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-    </div> -->
+    </div> 
     <br>
     <br>
 </div>
