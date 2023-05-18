@@ -39,12 +39,9 @@
     <div align=center>
         <p>
             <strong>
-                Computer Science Student at Cady Ayyad University, Full-Stack Developer, Algorand Blockchain Developer.
+                Computer Science Student at Cady Ayyad University, Full-Stack Developer
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
-            <div>
-                <img src="https://github.com/Abdelhadi-EL-bcir/Abdelhadi-EL-bcir/blob/output/github-contribution-grid-snake.svg" />
-            </div>
         </p>
     </div>
     </br>
